@@ -9,6 +9,7 @@ El public example se tiene que poner en cada uno de las seciones aprtir del la s
   - [Sección 2 Introducción a React y conceptos generales](#sección-2-introducción-a-react-y-conceptos-generales)
   - [Sección 3 Introducción a JavaScript moderno](#sección-3-introducción-a-javascript-moderno)
   - [Sección 4 Primeros pasos en React](#sección-4-primeros-pasos-en-react)
+  - [Sección 5 Pruebas unitarias y de integración - Probando las secciones anteriores](#sección-5-pruebas-unitarias-y-de-integración---probando-las-secciones-anteriores)
 
 ## Sección 2 Introducción a React y conceptos generales
 
@@ -46,4 +47,22 @@ El public example se tiene que poner en cada uno de las seciones aprtir del la s
 > > - DefaultProps
 > > - Introducción general a los Hooks
 > > - useState
+>
+
+## Sección 5 Pruebas unitarias y de integración - Probando las secciones anteriores
+
+> Toda la Sección 5 este en su misma carpeta [seccion_5](./seccion_5), y se vera:
+> > - Introducción a las pruebas
+> > - AAA
+> > > - Arrange - Arreglar
+> > > - Act - Actuar
+> > > - Assert - Afirmar
+> > - Primeras pruebas
+> > - Jest
+> > - Expect
+> > - toBe
+> > - Enzyme
+> > - Comandos útiles en la terminal para pruebas
+> > - Revisar elementos renderizados en el componente
+> > - Simular eventos
 >
